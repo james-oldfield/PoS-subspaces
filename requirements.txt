@@ -1,0 +1,6 @@
+transformers
+tqdm
+numpy
+torch
+torchvision
+nltk
