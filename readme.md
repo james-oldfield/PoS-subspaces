@@ -1,4 +1,3 @@
-
 # Parts of Speech–Grounded Subspaces in Vision-Language Models
 
 [![arXiv](https://img.shields.io/badge/arXiv-2305.14053-red)](https://arxiv.org/abs/2305.14053) [![project_page](https://img.shields.io/badge/project_page-orange)](http://eecs.qmul.ac.uk/~jo001/PoS-subspaces/)
