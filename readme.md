@@ -55,7 +55,9 @@ Wt, mt = M.decompose_tangent(categories=['N', 'A', 'V', 'AV'], encodings=e, lam=
 
 ## Experiments
 
-Full code coming soon.
+See [`experiments/pos.ipynb`](experiments/pos.ipynb).
+
+Add custom theme dictionaries in `experiments/custom_dict.py`
 
 ## Citation
 
